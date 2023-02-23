@@ -1,8 +1,8 @@
 body{
     background-color: #F0EBCE;
 }
-img{
-    width: 10%;
+img{ 
+    width: 30%;
     border-radius: 20%;
 }
 h1{
@@ -54,4 +54,11 @@ h3{
 .nametable{
     align-items: center;
     height: 100px;
+}
+.topicons a{
+text-decoration: none;
+color: #09097d;
+background-color: #ffffff;
+border-radius: 20%;
+padding: 10px;
 }
